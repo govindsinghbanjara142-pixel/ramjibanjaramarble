@@ -1,0 +1,196 @@
+{
+  "settings": {
+    "businessName": "Ramji Banjara Marble L.U",
+    "tagline": "From Our Mines & Factory to Your Door — Bringing Quality Directly to You.",
+    "logoUrl": "",
+    "description": "Direct All India mines manufacturer and leading wholesale exporter of authentic Makrana and Indian marble, granites, and hand-carved stone handicrafts. Serving architects, builders, retailers, and corporate buyers across all states of India.",
+    "phone": "+91 98290 12345",
+    "whatsappNumber": "+91 98290 12345",
+    "email": "sales@bharatstonecrafts.com",
+    "address": "Industrial Area Phase 2, Makrana Road, Kishangarh Marble Market",
+    "city": "Kishangarh / Makrana",
+    "state": "Rajasthan",
+    "pincode": "305801",
+    "instagramId": "@bharat_stone_crafts",
+    "facebook": "https://facebook.com/bharatstonecrafts",
+    "youtube": "https://youtube.com/@bharatstonecrafts",
+    "websiteUrl": "https://bharatstonecrafts.com",
+    "deliveryInformation": "We offer reliable, insured pan-India road logistics covering all 28 states and union territories. Stone slabs and blocks are loaded using calibrated gantry cranes with wooden spacers and protective strapping. Handcrafted items are individually wrapped in bubble wrap, thermocol, and wooden-framed corrugated cartons for zero transit breakage.",
+    "transportInformation": "Transport charges are separate from product cost and calculated based on order weight, volumetric dimension, and final destination pin code. For bulk marble craft orders, standard surface transport takes 4 to 8 working days. Transport charges are confirmed by our logistics team post enquiry and paid as per logistics booking receipt.",
+    "termsAndConditions": "1. Marble and granite are natural geological stones; mild natural vein variations and crystal crystallization are hallmarks of authenticity.\n2. Marble Craft and Handicraft items are manufactured strictly for bulk and wholesale distribution with a minimum quantity threshold of 100 pieces.\n3. Orders are dispatched upon clearance of payment. GST invoice is provided upon dispatch where applicable.\n4. Unloading at the delivery site is the responsibility of the consignee unless prior turnkey crane unloading is arranged.\n5. Any transit damage claims must be documented with photos during truck unloading and reported within 24 hours of arrival.",
+    "privacyPolicy": "Ramji Banjara Marble L.U respects the privacy of our wholesale clients and retail partners. Contact and business credentials submitted on this portal are strictly utilized for quotation generation, order processing, and logistical coordination. We do not sell or share business information with third-party advertising networks.",
+    "gstSettings": {
+      "enabled": false,
+      "fieldVisibility": "optional",
+      "gstNumber": "",
+      "gstBusinessName": "",
+      "gstAddress": "",
+      "gstPercentage": 18
+    },
+    "craftDefaultMinQty": 100,
+    "adminToken": "admin_session_token_stone_2026"
+  },
+  "categories": [
+    {
+      "id": "cat-marble",
+      "name": "Marble",
+      "slug": "marble",
+      "description": "World-renowned Makrana and premium Indian marbles, quarried and polished to perfection for opulent flooring, cladding, and architectural features.",
+      "image": "/src/assets/images/makrana_white_marble_1790747884116.jpg",
+      "subcategories": [
+        "Makrana Marble",
+        "White Marble",
+        "Green Marble",
+        "Black Marble",
+        "Beige Marble",
+        "Onyx Marble",
+        "Marble Slabs",
+        "Marble Tiles",
+        "Marble Blocks",
+        "Marble Sheets",
+        "Other Marble Products"
+      ]
+    },
+    {
+      "id": "cat-granite",
+      "name": "Granite",
+      "slug": "granite",
+      "description": "High-density, weather-resistant natural granites in premium black, white, grey, red, and green finishes, ideal for kitchen countertops, steps, and commercial facades.",
+      "image": "/src/assets/images/black_granite_slab_1790747898296.jpg",
+      "subcategories": [
+        "Black Granite",
+        "White Granite",
+        "Grey Granite",
+        "Red Granite",
+        "Green Granite",
+        "Granite Slabs",
+        "Granite Tiles",
+        "Granite Blocks",
+        "Other Granite Products"
+      ]
+    },
+    {
+      "id": "cat-handicraft",
+      "name": "Handicrafts",
+      "slug": "handicraft",
+      "description": "Exquisitely hand-carved pure marble artifacts, spiritual decor, and utility art sculpted by traditional artisans. Bulk and wholesale orders only.",
+      "image": "/src/assets/images/marble_brass_handicrafts_1790747867183.jpg",
+      "subcategories": [
+        "Marble Diyas",
+        "Marble Candle Holders",
+        "Marble Decorative Items",
+        "Marble Statues",
+        "Marble Bowls",
+        "Marble Trays",
+        "Marble Home Décor",
+        "Marble Tables",
+        "Other Handicrafts"
+      ]
+    }
+  ],
+  "products": [],
+  "orders": [
+    {
+      "id": "ORD-2026-0891",
+      "createdAt": "2026-09-29T02:04:42.043Z",
+      "customer": {
+        "fullName": "Vikramaditya Sharma",
+        "mobile": "+91 98765 43210",
+        "whatsapp": "+91 98765 43210",
+        "email": "vikram@sharmainteriors.in",
+        "businessName": "Sharma Interiors & Builders"
+      },
+      "delivery": {
+        "address": "Plot 42, Sector 18, Commercial Belt",
+        "villageArea": "Near DLF Cyber Hub",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "pincode": "122002",
+        "landmark": "Opposite Gateway Tower",
+        "locationType": "Commercial Site"
+      },
+      "businessInfo": {
+        "instagramId": "@sharmainteriors_delhi",
+        "website": "www.sharmainteriors.in",
+        "gstNumber": ""
+      },
+      "items": [
+        {
+          "productId": "prod-crf-diya-01",
+          "productName": "Artisan Carved Makrana White Marble Diya",
+          "productCode": "CRF-DYA-WHT-01",
+          "category": "Marble Craft",
+          "unit": "Piece",
+          "price": 120,
+          "pricingType": "fixed",
+          "quantity": 250,
+          "totalPrice": 30000,
+          "orderRulesNote": "Wholesale Order (Min 100 pcs rule satisfied)"
+        },
+        {
+          "productId": "prod-brs-gift-02",
+          "productName": "Marble + Brass Festive Corporate Gift Box Set (Pair)",
+          "productCode": "MB-GFT-BOX-02",
+          "category": "Marble + Brass",
+          "unit": "Piece",
+          "price": 690,
+          "pricingType": "fixed",
+          "quantity": 120,
+          "totalPrice": 82800,
+          "orderRulesNote": "Wholesale Order (Min 100 pcs rule satisfied)"
+        }
+      ],
+      "totalAmount": 112800,
+      "transportCharge": 4200,
+      "transportNote": "Direct tempo dispatch to Gurugram warehouse",
+      "status": "Confirmed",
+      "adminNotes": "Order note test - Makrana lot reserved."
+    },
+    {
+      "id": "ORD-2026-0892",
+      "createdAt": "2026-09-29T18:04:42.043Z",
+      "customer": {
+        "fullName": "Rajesh Kulkarni",
+        "mobile": "+91 94220 87654",
+        "whatsapp": "+91 94220 87654",
+        "email": "rajesh.kulkarni@shristiconstructions.com",
+        "businessName": "Shristi Stone Developers"
+      },
+      "delivery": {
+        "address": "Bungalow 7, Senapati Bapat Road",
+        "villageArea": "Shivajinagar",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pincode": "411016",
+        "landmark": "Near Symbiosis Institute",
+        "locationType": "Residential Project"
+      },
+      "businessInfo": {
+        "instagramId": "",
+        "website": "",
+        "gstNumber": ""
+      },
+      "items": [
+        {
+          "productId": "prod-mkr-white-01",
+          "productName": "Makrana Pure White Marble Slabs",
+          "productCode": "MKR-WHT-SLB-01",
+          "category": "Marble",
+          "unit": "Sq. Ft.",
+          "price": 450,
+          "pricingType": "fixed",
+          "quantity": 650,
+          "totalPrice": 292500,
+          "orderRulesNote": "Marble Flooring Lot (Custom Sq. Ft. Order)"
+        }
+      ],
+      "totalAmount": 292500,
+      "transportCharge": 18500,
+      "transportNote": "16-ton open truck freight to Pune unloaded by crane",
+      "status": "Processing",
+      "adminNotes": "High-purity Makrana lot reserved. Inspection video sent to client."
+    }
+  ],
+  "adminUsername": "RMB",
+  "adminPasswordHash": "9024355313"
+}

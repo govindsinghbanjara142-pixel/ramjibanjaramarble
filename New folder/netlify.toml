@@ -1,0 +1,9 @@
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+# SPA Fallback for Netlify: Ensures direct page refreshes (/admin, /catalog, etc.) work without 404
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
